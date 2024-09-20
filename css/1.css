@@ -1,0 +1,13 @@
+body{
+    background: url(../img/фон.jpg) lightgoldenrodyellow repeat-x bottom;
+}
+.bolt{
+    font-weight:bold;
+}
+ul{
+   list-style-type: lower-roman; 
+}
+.color{
+    color: darkgoldenrod;
+    font-size: 2rem;
+}
