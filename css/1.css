@@ -2,16 +2,18 @@ body{
     background: url(../img/фон.jpg) lightgoldenrodyellow repeat-x bottom;
 }
 .bolt{
-    font-weight:bold;
+    font-weight: bold;
 }
 ul{
    list-style-type: lower-roman; 
 }
 .color{
     color: darkgoldenrod;
-    font-size: 2rem;   
+    font-size: 2rem;
 }
-.color1{
-    color: blue;
-    font-size: 0.5rem;   
+.body{
+    background-color: lightgoldenrodyellow;
+}
+.bold{
+    font-weight: bold;
 }
